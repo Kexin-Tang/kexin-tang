@@ -43,7 +43,7 @@ Hi~, my name is Kexin Tang, a <img src="https://img.icons8.com/fluent/24/000000/
   <a href="https://weibo.com/u/5832966400"><img src="https://img.icons8.com/color/36/4a90e2/weibo.png"/></a>&emsp;
   <a href="https://www.zhihu.com/people/black-93-60"><img src="https://img.icons8.com/material-rounded/36/4a90e2/zhihu.png"/></a>&emsp;
   <a href="https://www.linkedin.com/in/ke-hsin-kexin-tang-3894a31a4/"><img src="https://img.icons8.com/metro/36/4a90e2/linkedin.png"/></a>&emsp;
-  <a href="https://www.kexin-tang.github.io/"><img src="https://img.icons8.com/material-sharp/36/000000/github.png"/></a>&emsp;
+  <a href="https://kexin-tang.github.io/"><img src="https://img.icons8.com/material-sharp/36/000000/github.png"/></a>&emsp;
   <a href="https://500px.com.cn/kexintang"><img src="https://img.icons8.com/ios/36/000000/camera--v1.png"/></a>
 </p>
 
