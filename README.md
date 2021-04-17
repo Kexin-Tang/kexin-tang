@@ -6,6 +6,7 @@ Hi~, my name is Kexin Tang, a <img src="https://img.icons8.com/fluent/24/000000/
 ##### SKILLS
 - Programing Languages
 
+&emsp;&emsp;&emsp;
 <img src="https://img.icons8.com/color/48/000000/python.png"/>&emsp; 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>&emsp; 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&emsp; 
@@ -48,4 +49,3 @@ Hi~, my name is Kexin Tang, a <img src="https://img.icons8.com/fluent/24/000000/
 </p>
 
 <hr>
-
