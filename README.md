@@ -1,6 +1,12 @@
 <!-- 此处为个人简介 -->
 ##### INTRO
 Hi~, my name is Kexin Tang, a <img src="https://img.icons8.com/fluent/24/000000/china-circular.png"/> student. I am very interested in CS and have mastered many skills. You can browse the information below in detail. I used to work at <a href="https://www.mi.com/global/"><img src="https://img.icons8.com/color/24/000000/xiaomi.png"/></a> as an Intern, and now I am pursuing for my master degree in <img src="https://img.icons8.com/color/24/000000/usa-circular.png"/>. **I am eager to find SDE jobs**.
+<p align="center">
+    Incoming Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
+    Bachelor of Eng. in Computer Engineering @ <a href="https://www.hust.edu.cn/">Huazhong U. of Science and Technology</a>
+</p>
+
+<hr>
 
 <!-- 此处为个人技能 -->
 ##### SKILLS
@@ -38,14 +44,7 @@ Hi~, my name is Kexin Tang, a <img src="https://img.icons8.com/fluent/24/000000/
   <a href="https://weibo.com/u/5832966400"><img src="https://img.icons8.com/color/36/4a90e2/weibo.png"/></a>&emsp;
   <a href="https://www.zhihu.com/people/black-93-60"><img src="https://img.icons8.com/material-rounded/36/4a90e2/zhihu.png"/></a>&emsp;
   <a href="www.linkedin.com/in/ke-hsin-kexin-tang-3894a31a4"><img src="https://img.icons8.com/metro/36/4a90e2/linkedin.png"/></a>&emsp;
-  <a href=""><img src="https://img.icons8.com/fluent/36/000000/photo-album.png"/></a>
-</p>
-
-
-<!-- 此处为个人简介 -->
-<p align="center">
-    Incoming Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
-    Bachelor of Eng. in Computer Engineering @ <a href="https://www.hust.edu.cn/">Huazhong U. of Science and Technology</a>
+  <a href="https://500px.com.cn/kexintang"><img src="https://img.icons8.com/ios/36/000000/camera--v1.png"/></a>
 </p>
 
 <hr>
