@@ -4,7 +4,7 @@
 ##### INTRO
 Hi~, my name is Kexin Tang, a <img src="https://img.icons8.com/fluent/24/000000/china-circular.png"/> student. I am very interested in CS and have mastered many skills. I used to work at <a href="https://www.mi.com/global/"><img src="https://img.icons8.com/color/24/000000/xiaomi.png"/></a> as an Intern, and now I am pursuing for my master degree in <img src="https://img.icons8.com/color/24/000000/usa-circular.png"/>. **I am eager to find SDE jobs**. If you need more details, please pay attention to the contact methods.
 <p align="center">
-    Incoming Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
+    Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
     Bachelor of Eng. in Computer Engineering @ <a href="https://www.hust.edu.cn/">Huazhong U. of Science and Technology</a>
 </p>
 
