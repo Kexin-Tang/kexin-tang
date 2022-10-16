@@ -2,7 +2,7 @@
 
 <!-- 此处为个人简介 -->
 ##### INTRO
-Hi~, my name is Kexin Tang. I am currently a master student @ UIUC, and a Software Engineer Intern @ Tiktok's Database. I used to be a Software Engineer Intern @ Xiaomi. You can refer to my resume <a href="https://drive.google.com/file/d/1JcUpvPWeJHiMFX4m89DH0tXLJ5W_ETuS/view?usp=sharing">here</a> XD (sometimes updating).
+Hi~, my name is Kexin Tang. I am currently a master student @ UIUC. I will join <b>Bloomberg</b> as a Software Engineer in Feb 2023, New York City. I used to be a Software Engineer Intern @ <b>TikTok Database</b> and <b>Xiaomi</b>.
 
 <p align="center">
     Master of Eng. in Computer Engineering @ <a href="https://www.uiuc.edu/">U.Illinois, Urbana-Champaign</a><br>
