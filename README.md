@@ -1,6 +1,6 @@
 <!-- Intro -->
 ##### INTRO
-Hi~, here is Kexin Tang (Ke-Hsin Tang). I like playing tennis 🎾, watching soccer ⚽ and taking photos 📷.
+Hi~, here is Kexin Tang (Ke-Hsin Tang). I like playing tennis 🎾, watching soccer ⚽ and taking photos 📷. My personal blog is now available [here](http://www.kexintang.xyz).
 
 I am currently working at <a href="https://www.linkedin.com/company/bloomberg/">Bloomberg</a> as a Software Engineer. I used to be a Software Engineer Intern at <a href="https://www.linkedin.com/company/tiktok/">TikTok Database</a> and <a href="https://www.linkedin.com/company/xiaomi-technology/">Xiaomi</a>.
 
