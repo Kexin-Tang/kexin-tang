@@ -13,8 +13,10 @@ I am interested in distributed systems and database systems 🐱. During my prev
 
 <!-- Links -->
 <p align="center">
-  <a href="mailto:KexinTang.0210@gmail.com"><img src="https://img.icons8.com/metro/36/fa314a/email.png"/></a>&emsp;
-  <a href="https://www.linkedin.com/in/kexintang0210/"><img src="https://img.icons8.com/metro/36/4a90e2/linkedin.png"/></a>&emsp;
+  <a href="mailto:KexinTang.0210@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/envelope.svg" width="25" height="25"/></a>&emsp;
+  <a href="https://www.linkedin.com/in/kexintang0210/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="25" height="25"/></a>&emsp;
+  <a href="http://www.kexintang.xyz"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/link.svg" width="25" height="25"/></a>
+    
 </p>
 
 <hr>
