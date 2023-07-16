@@ -2,7 +2,7 @@
 ##### INTRO
 Hi~, here is Kexin Tang (Ke-Hsin Tang). I like playing tennis 🎾, watching soccer ⚽ and taking photos 📷.
 
-I am currently working at <b><a href="https://www.linkedin.com/company/bloomberg/">Bloomberg</a></b> as a Software Engineer. I used to be a Software Engineer Intern at <b><a href="https://www.linkedin.com/company/tiktok/">TikTok Database</a></b> and <b><a href="https://www.linkedin.com/company/xiaomi-technology/">Xiaomi</a></b>.
+I am currently working at <a href="https://www.linkedin.com/company/bloomberg/">Bloomberg</a> as a Software Engineer. I used to be a Software Engineer Intern at <a href="https://www.linkedin.com/company/tiktok/">TikTok Database</a> and <a href="https://www.linkedin.com/company/xiaomi-technology/">Xiaomi</a>.
 
 I am interested in distributed systems and database systems 🐱. During my previous internship, I wrote database kernel (vectorized execution engine & columnar data storage engine) via C++ 17, used <a href="https://clickhouse.com/">Clickhouse</a>, <a href="https://arrow.apache.org/">Apache Arrow</a>, <a href="https://grpc.io/">gRPC</a>, <a href="https://thrift.apache.org/">Apache thrift</a>, <a href="https://kudu.apache.org/">Apache Kudu</a>, etc.
 
